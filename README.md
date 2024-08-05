@@ -1,1 +1,1 @@
-# basicBootloader-for--STM32F407VG-MCU
+# basicBootloader-for--STM32F407VG
