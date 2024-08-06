@@ -1,1 +1,1 @@
-# basicBootloader-for--STM32F407VG
+# Bootloader & Application for STM32F407VG
